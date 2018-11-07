@@ -1,0 +1,17 @@
+*.pid
+*.pyc
+*.swp
+*.pytest*
+
+*DS_Store
+*~
+*.log.*
+*.log
+!.keep
+
+.coverage
+.idea/
+.venv/
+env/
+logs/*
+venv/
