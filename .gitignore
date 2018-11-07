@@ -10,7 +10,6 @@
 !.keep
 
 .coverage
-.idea/
 .venv/
 env/
 logs/*
