@@ -11,6 +11,4 @@
 
 .coverage
 .venv/
-env/
-logs/*
-venv/
+.idea/
